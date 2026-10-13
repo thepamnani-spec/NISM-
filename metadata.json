@@ -1,0 +1,6 @@
+{
+  "name": "MockMaster - Smart CBT Exam Platform",
+  "description": "Smart Computer Based Test (CBT) MCQ exam simulator and practice platform featuring complete NISM-XV question banks, exam timer, interactive question navigator, analytics scorecard, and PDF/text question bank importer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
